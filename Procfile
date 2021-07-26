@@ -1,0 +1,1 @@
+web: gunicorn protest.wsgi --log-file -
